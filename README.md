@@ -1,24 +1,5 @@
-# README
+GRAMMABLE
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Grammable is an Instagram-style app with user management, image uploading and resizing, and image comments.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This app was built using RoR, HTML, and CSS.
